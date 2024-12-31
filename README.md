@@ -5,3 +5,18 @@ The part I am going to show here is the core proof of concept RAG pipeline I cre
 
 # Key Features
 
+
+
+
+
+# Output
+
+![image](https://github.com/user-attachments/assets/d87965f0-a6a2-422d-8b33-254e9b58ee11)
+
+
+
+
+It's a bit messy 
+# Learnings
+
+
